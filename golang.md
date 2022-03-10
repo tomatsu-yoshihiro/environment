@@ -17,3 +17,9 @@ export PATH=$PATH:/opt/go/bin
 export GOPATH=~/go
 export GOROOT=/opt/go
 ```
+
+## 環境構築例
+https://dev.classmethod.jp/articles/go-setup-and-sample/
+
+## Goのモジュール管理
+https://zenn.dev/spiegel/articles/20210223-go-module-aware-mode
