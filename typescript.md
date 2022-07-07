@@ -1,4 +1,4 @@
-##
+## ディレクトリ作成、TypeScriptインストール
 ```bash
 mkdir xxx
 cd xxx
