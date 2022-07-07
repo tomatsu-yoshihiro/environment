@@ -43,7 +43,6 @@ npx tsc --init
   "include": ["./src**/*.ts"]
 }
 ```
-```
 
 ## コンパイル
 ```bash
