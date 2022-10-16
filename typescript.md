@@ -40,7 +40,7 @@ npx tsc --init
     // Many options.
   },
   // Add here
-  "include": ["./src**/*.ts"]
+  "include": ["./src/**/*.ts"]
 }
 ```
 
